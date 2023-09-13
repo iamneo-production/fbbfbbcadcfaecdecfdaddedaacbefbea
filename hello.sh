@@ -1,2 +1,2 @@
-mkdir hello
-ls -1
+read var
+echo "$var"
