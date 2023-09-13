@@ -1,0 +1,3 @@
+Hello World
+Linux is one of the operating system.
+Shell Scripting is used in linux.
